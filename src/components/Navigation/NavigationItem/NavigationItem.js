@@ -1,4 +1,3 @@
-import navigationItems from '../NavigationItems/NavigationItems';
 import React from 'react';
 import classes from './NavigationItem.module.css';
 
